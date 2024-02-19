@@ -1,21 +1,20 @@
 # 🍀 My Information 🍀
 
 <div align="center">
-	<h1>[E-mail]
+	<h1>[E-mail]</h1>
 	<p>
 	  <a href="mailto:selfhiam@naver.com" target="_blank">
 	    <img src="https://img.shields.io/badge/selfhiam@naver.com-red?style=for-the-badge&logo=naver&logoColor=white"/>
 	  </a>
 	</p>
+	<br>
+	<h1>[Tech Blog]</h1>
+	<p>
+	  <a href="https://selfhiam.tistory.com/" target="_blank">
+	    <img src="https://img.shields.io/badge/Tistory-FDB5B5?style=for-the-badge&logo=tistory&logoColor=black"/>
+	  </a>
+	</p>
 </div>
-
-### Tech Blog
-<p>
-  <a href="https://selfhiam.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-FDB5B5?style=for-the-badge&logo=tistory&logoColor=black"/>
-  </a>
-</p>
-
 
 # tech stack
 
