@@ -56,10 +56,13 @@
 # Server
 <div align="center">
 	<img src="https://img.shields.io/badge/vmware-607078?style=flat&logo=vmware&logoColor=white" />
-	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/UTM-607078?style=flat&logo=UTM&logoColor=white" />
+	<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux_Server-FCC624?style=flat&logo=linux&logoColor=white" />
 	<img src="https://img.shields.io/badge/AIX-FCC624?style=flat&logo=AIX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Solaris-FCC624?style=flat&logo=Solaris&logoColor=white" />
+	<img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white" />
+	<img src="https://img.shields.io/badge/redhat-EE0000?style=flat&logo=redhat&logoColor=white" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfhiam&layout=compact"><br><br>
