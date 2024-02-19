@@ -61,3 +61,6 @@
 	<img src="https://img.shields.io/badge/AIX-FCC624?style=flat&logo=AIX&logoColor=white" />
 	<img src="https://img.shields.io/badge/Solaris-FCC624?style=flat&logo=Solaris&logoColor=white" />
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfhiam&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=selfhiam&show_icons=true">
