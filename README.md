@@ -2,6 +2,11 @@
 
 # tech stack
 
+# Language
+<div align="center">
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
+</div>
+
 # AI
 <div align="center">
 	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
