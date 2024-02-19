@@ -1,7 +1,7 @@
 # 🍀 My Information 🍀
 
 <div>
-<h1>E-mail</h1>
+	<h1>E-mail</h1>
 	<p>
 	  <a href="mailto:selfhiam@naver.com" target="_blank">
 	    <img src="https://img.shields.io/badge/selfhiam@naver.com-red?style=for-the-badge&logo=naver&logoColor=white"/>
