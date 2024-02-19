@@ -35,3 +35,29 @@
 </div>
 
 # Tools
+<div align="center">
+	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=slack&logoColor=white" />
+	<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=white" />
+	<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white" />
+	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
+	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+</div>
+
+# OS
+<div align="center">
+	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mac-000000?style=flat&logo=macos&logoColor=white" />
+</div>
+
+# Server
+<div align="center">
+	<img src="https://img.shields.io/badge/vmware-607078?style=flat&logo=vmware&logoColor=white" />
+	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
+	<img src="https://img.shields.io/badge/AIX?style=flat&logo=AIX&logoColor=white" />
+	<img src="https://img.shields.io/badge/Solaris?style=flat&logo=Solaris&logoColor=white" />
+</div>
