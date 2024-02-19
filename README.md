@@ -9,9 +9,10 @@
 
 # AI
 <div align="center">
-	<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-	<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-	<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+	<img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+	<img src="https://img.shields.io/badge/Opencv-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 </div>
 
 # Front-End
@@ -23,8 +24,9 @@
 
 # Back-End
 <div align="center">
-	<img src="https://img.shields.io/badge/nodejs-339933?style=flat&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nodejs-339933?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white" />
+	<img src="https://img.shields.io/badge/Fastapi-009688?style=flat&logo=fastapi&logoColor=white" />
 </div>
 
 # Database
@@ -44,6 +46,8 @@
 	<img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 	<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
 	<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+	<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+	<img src="https://img.shields.io/badge/filezilla-BF0000?style=flat&logo=filezilla&logoColor=white" />
 </div>
 
 # OS
