@@ -58,6 +58,6 @@
 	<img src="https://img.shields.io/badge/vmware-607078?style=flat&logo=vmware&logoColor=white" />
 	<img src="https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/AIX?style=flat&logo=AIX&logoColor=white" />
-	<img src="https://img.shields.io/badge/Solaris?style=flat&logo=Solaris&logoColor=white" />
+	<img src="https://img.shields.io/badge/AIX-FCC624?style=flat&logo=AIX&logoColor=white" />
+	<img src="https://img.shields.io/badge/Solaris-FCC624?style=flat&logo=Solaris&logoColor=white" />
 </div>
